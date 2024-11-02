@@ -52,16 +52,20 @@ Microsoft Excel is a spreadsheet tool for data organization (cleaning and prepar
 
 ### Exploratory Data Analysis
 The following insights will be drawn:
-* Which region has the highest sales?
-* What product was sold the most?
-* What month had the highest sales each year?
-* What quantity of product was sold in each month of the year?
-* What is the total number of products sold in the year?
-* What is the total revenue of products sold in each region?
+* Which region has the largest revenue?
+* What is the most popular subscription type?
+* What is the total revenue by subscription type?
+* Which region has the most cancelled subscriptions? Top 3.
+* What is the total number of active and cancelled subscriptions?
+* What is the total duration of subscription in each region?
+* What is the cancellation rate by customers?
+* How many customers are with subscriptions longer than 12 months?
+* How many customers cancelled their subscriptions within 6 months?
+* What is the total number of customers by subscription?
 * Which region is best for business?
-* Which product should the business focus more on?
-* What is the total revenue derived from each product?
-* What is the average sales for each product? And many more...
+* Which region should the business focus more on?
+* What is the total revenue derived from each subscription type?
+* What is the average subscription duration for all customers? And many more...
 
 
   ### Data Visualization
