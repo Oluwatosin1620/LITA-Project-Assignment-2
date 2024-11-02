@@ -72,15 +72,17 @@ The following insights will be drawn:
   **Pivot Table** a data summarization tool found in MS Excel was used for visualization.
   
 **Insights Derived**:
-1. **Region with the highest Sales**:	
+1. **Which region has the largest revenue**:	
 
 ![Total Revenue by Region](https://github.com/user-attachments/assets/cc057deb-cd66-4a05-87a3-1334e0aaf65d)
 ![image](https://github.com/user-attachments/assets/1ff7d808-5858-4650-afe5-d748fbb4759d)
+![image](https://github.com/user-attachments/assets/8b48c719-d708-427b-9c53-2daf2942348f)
+
 
 **key Finding**
-Based on this analysis, the South Region has the highest sales, followed by the East Region, while the West Region has the lowest sales. Though the business is doing well in all regions, it should focus more on the South Region, which has a huge sales difference from others.
+Based on this analysis, the East Region has the highest revenue, followed by the South Region, while the North Region has the lowest revenue. The business is doing well in all regions. The basic subscription type should be introduced in the south and west regions. which will also bring more revenue to the business.
 
-2. **Product that was sold the most**;
+2. **What is the average subscription duration for all customers**;
 
 ![Total Sales by Product](https://github.com/user-attachments/assets/c3d7def7-d6cb-442f-9b9f-6bed8c281312)
 ![image](https://github.com/user-attachments/assets/ae64607c-3a54-44a8-8888-442004daaf8e)
