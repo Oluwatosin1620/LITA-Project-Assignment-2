@@ -17,20 +17,19 @@ Our facilitator provided this dataset.
 
 
 ### Dataset Description
-This dataset provides comprehensive information on customer subscriptions, including details on individual subscription types, durations, and revenue generation. The primary aim is to analyze customer behaviours, subscription trends, and revenue patterns across different regions, helping to guide marketing and retention strategies.
-  This data contains 9921 rows and 7 columns, while a missing key column was added in the cleaning process, making it a total of 8 columns.
+This dataset provides comprehensive information on customer subscriptions, including details on individual subscription types, durations, and revenue generation. The primary aim is to analyze customer behaviours, subscription trends, and revenue patterns across different regions, helping to guide marketing and retention strategies. This data contains 33,787 rows and 8 columns, while an additional column was added in the cleaning process, making it a total of 9 columns.
 
 ---
 
 ### Key Features:
-**CustomerID**: Each customer's unique ID
-**CustomerName**: The name of each Customer
-**Region**: The region in which the order was placed
-**SubscriptionType**: The type of Subscription 
-**SubscriptionStart**: The quantity of the product ordered
-**SubscriptionEnd**: The unit price for each product
-**Canceled**:
-**Revenue**: The revenue derived from the product sold
+**CustomerID**: A unique identifier for each customer.
+**CustomerName**: The name of the customer.
+**Region**: The geographical region where the customer is located, useful for analyzing trends based on location.
+**SubscriptionType**: The type of subscription each customer has selected.
+**SubscriptionStart**: The date when the customer's subscription began.
+**SubscriptionEnd**: The date when the customer's subscription is scheduled to end.
+**Cancelled**: An indicator denoting whether the customer has cancelled their subscription.
+**Revenue**: The total revenue generated from each customer’s subscription.
 
 
 ### Data Tools
