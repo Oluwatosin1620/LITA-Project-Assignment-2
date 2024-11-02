@@ -88,18 +88,14 @@ Based on this analysis, the East Region has the highest revenue, followed by the
 ![image](https://github.com/user-attachments/assets/9afcc55b-4e69-421a-bf18-815451d37ad9)
 
 
-
 **Key Finding**
 This analysis shows that all subscription durations have equal span.
 
-3. **What month had the highest sales each year**;
+3. **What is the total duration of subscription in each region**;
 
-![Total Sales by Month](https://github.com/user-attachments/assets/dc651dfe-c073-44af-ab93-6170d3a965b8)
-![image](https://github.com/user-attachments/assets/04b218d5-72fd-4016-82c8-441da280d5f6)
+![Total Duration by Region](https://github.com/user-attachments/assets/02b5f04a-eaf4-4b28-812c-73566705d954)
+![image](https://github.com/user-attachments/assets/5a53192a-3898-4362-ae40-fb65122ae985)
 
-
-**Key Finding**
-It shows that in 2023 and 2024, February had the highest sales. July was the second-highest sales in 2023, but in 2024, Jul declined in sales, and Jan had the second-highest total sales.
 
 4. **What are the average sales of products sold**;
    
