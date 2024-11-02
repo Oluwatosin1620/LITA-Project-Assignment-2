@@ -46,9 +46,8 @@ This dataset provides comprehensive information on customer subscriptions, inclu
 Microsoft Excel is a spreadsheet tool for data organization (cleaning and preparation), analysis, and visualization. It offers formulas, pivot tables, and charts, enabling users to manage and interpret data.
 
 **Data Cleaning and Preparation**: Processing the raw data to ensure it is ready for analysis. Steps taken:
-> Removing Duplicates: The initial rows of the data were 50001, but after removing duplicates, 9921 rows were left. No missing values were found; 
-> Adding filters;
-> Adding conditional formatting
+> Removing Duplicates: The initial rows of the data were 50001, but after removing duplicates, 33787 rows were left. No missing values were found; 
+> Adding filters
 
 
 ### Exploratory Data Analysis
@@ -146,7 +145,7 @@ GROUP BY SubscriptionType
 ORDER BY MostPopular
 ~~~
 
-3. Find customers who canceled their subscription within 6 months:
+3. Find customers who cancelled their subscription within 6 months:
    
 ~~~ SQL
 select *,
@@ -199,7 +198,7 @@ group by region
 order by Total_Cancel desc
 ~~~
 
-8. Find the total number of active and canceled subscriptions:
+8. Find the total number of active and cancelled subscriptions:
 
 ~~~ SQL
 select case when canceled = 0 then 'Active_Sub'
