@@ -97,10 +97,11 @@ This analysis shows that all subscription durations have equal span.
 ![image](https://github.com/user-attachments/assets/5a53192a-3898-4362-ae40-fb65122ae985)
 
 
-4. **What are the average sales of products sold**;
+4. **What is the total cancellation rate by customers**;
    
-![Average Sales by Product](https://github.com/user-attachments/assets/8de4825c-6816-484f-b2b4-a5a1645913c4)
-![image](https://github.com/user-attachments/assets/14fab66c-0922-4257-bf9d-904574c40e2d)
+
+![Total Cancellations by Customers](https://github.com/user-attachments/assets/5ccad6da-5412-4050-bbda-2f466409ce1d)
+![image](https://github.com/user-attachments/assets/0b52f759-d33e-4e9f-b30d-a3c93b43fd58)
 
 
 5. **What is the total revenue of products sold in each region**?    
