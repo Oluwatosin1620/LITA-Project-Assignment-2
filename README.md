@@ -84,12 +84,13 @@ Based on this analysis, the East Region has the highest revenue, followed by the
 
 2. **What is the average subscription duration for all customers**;
 
-![Total Sales by Product](https://github.com/user-attachments/assets/c3d7def7-d6cb-442f-9b9f-6bed8c281312)
-![image](https://github.com/user-attachments/assets/ae64607c-3a54-44a8-8888-442004daaf8e)
+![Average Subscription Duration](https://github.com/user-attachments/assets/37cdc783-721b-4586-9798-2208293c0546)
+![image](https://github.com/user-attachments/assets/9afcc55b-4e69-421a-bf18-815451d37ad9)
+
 
 
 **Key Finding**
-This analysis shows that shoes were the the most sold product with a total of 613,380 followed by shirts which had a total of 485,600 and socks coming as the least with totals of 180,785. 
+This analysis shows that all subscription durations have equal span.
 
 3. **What month had the highest sales each year**;
 
