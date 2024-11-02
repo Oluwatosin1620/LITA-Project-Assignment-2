@@ -104,10 +104,11 @@ This analysis shows that all subscription durations have equal span.
 ![image](https://github.com/user-attachments/assets/0b52f759-d33e-4e9f-b30d-a3c93b43fd58)
 
 
-5. **What is the total revenue of products sold in each region**?    
+5. **What is the most popular subscription type**?    
   
-![Total Revenue by Region](https://github.com/user-attachments/assets/715259c0-4a91-4015-9ea2-5bdc5e827e79)
-![image](https://github.com/user-attachments/assets/ce788d61-9f5a-4b31-b28b-8f0848ddf26e)
+
+![Most popular Subscription Type](https://github.com/user-attachments/assets/2d10d420-65af-46ad-8e81-32f68d24bbb7)
+![image](https://github.com/user-attachments/assets/1763453f-fc08-4811-9b82-cec7b93a4a40)
 
 
 6. **What is the total No of products sold in a month at each region**;
