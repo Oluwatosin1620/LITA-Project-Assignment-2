@@ -71,8 +71,7 @@ The following insights will be drawn:
 1. **Region with the highest Sales**:	
 
 ![Total Revenue by Region](https://github.com/user-attachments/assets/cc057deb-cd66-4a05-87a3-1334e0aaf65d)
-![image](https://github.com/user-attachments/assets/411ac86b-f729-47f3-9c9e-f0bad8b73611)
-
+![image](https://github.com/user-attachments/assets/1ff7d808-5858-4650-afe5-d748fbb4759d)
 
 **key Finding**
 Based on this analysis, the South Region has the highest sales, followed by the East Region, while the West Region has the lowest sales. Though the business is doing well in all regions, it should focus more on the South Region, which has a huge sales difference from others.
