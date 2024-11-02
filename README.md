@@ -70,8 +70,8 @@ The following insights will be drawn:
 **Insights Derived**:
 1. **Region with the highest Sales**:	
 
-![Total Sales by Region](https://github.com/user-attachments/assets/e21be676-1260-43d9-8733-0bd46bafbff7)
-![image](https://github.com/user-attachments/assets/a2607c1f-ec43-4789-ae57-180d2d744781)
+![Total Revenue by Region](https://github.com/user-attachments/assets/cc057deb-cd66-4a05-87a3-1334e0aaf65d)
+![image](https://github.com/user-attachments/assets/411ac86b-f729-47f3-9c9e-f0bad8b73611)
 
 
 **key Finding**
