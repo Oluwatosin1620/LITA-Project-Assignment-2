@@ -78,20 +78,21 @@ The following insights will be drawn:
 ![image](https://github.com/user-attachments/assets/1ff7d808-5858-4650-afe5-d748fbb4759d)
 ![image](https://github.com/user-attachments/assets/8b48c719-d708-427b-9c53-2daf2942348f)
 
-
 **key Finding**
 Based on this analysis, the East Region has the highest revenue, followed by the South Region, while the North Region has the lowest revenue. The business is doing well in all regions. The basic subscription type should be introduced in the south and west regions. which will also bring more revenue to the business.
+
 
 2. **What is the average subscription duration for all customers**;
 
 ![Average Subscription Duration](https://github.com/user-attachments/assets/37cdc783-721b-4586-9798-2208293c0546)
 ![image](https://github.com/user-attachments/assets/9afcc55b-4e69-421a-bf18-815451d37ad9)
 
-
 **Key Finding**
 This analysis shows that all subscription durations have equal span.
 
+
 3. **What is the total duration of subscription in each region**;
+
 
 ![Total Duration by Region](https://github.com/user-attachments/assets/02b5f04a-eaf4-4b28-812c-73566705d954)
 ![image](https://github.com/user-attachments/assets/5a53192a-3898-4362-ae40-fb65122ae985)
