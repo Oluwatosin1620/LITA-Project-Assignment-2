@@ -111,9 +111,15 @@ This analysis shows that all subscription durations have equal span.
 ![image](https://github.com/user-attachments/assets/1763453f-fc08-4811-9b82-cec7b93a4a40)
 
 
-6. **What is the total No of products sold in a month at each region**;
+6. **What is the subscription trend at start and end date**;
 
-![Total Product by Month and Region](https://github.com/user-attachments/assets/aaa55f49-39b6-4f95-bc80-ec2a4d9ae108)
+
+![Subscription Trends](https://github.com/user-attachments/assets/052d7690-ce39-4a6b-b231-91ef109764e1)
+![image](https://github.com/user-attachments/assets/07b7af75-d761-408f-b123-93e039090e39)
+![image](https://github.com/user-attachments/assets/965e4e56-ad2d-49a5-b979-4317c6cae1c9)
+
+
+
 
 **Key Findings**
 In this analysis, lots of insights were generated. It answers the questions:
