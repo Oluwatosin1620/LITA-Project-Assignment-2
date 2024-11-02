@@ -217,4 +217,8 @@ A data Visualization and business intelligence tool for converting data from dif
 
 
 
+![CustomerData Dashboard](https://github.com/user-attachments/assets/72854ad1-0471-4231-b624-4eec797251bc)
+
+![CustomerData Dashboard 2](https://github.com/user-attachments/assets/12719791-70fd-4263-8a8c-f0890f690257)
+
 
