@@ -10,14 +10,14 @@
 [POWER BI](power-bi)
  
 ### Project Overview
-This is an analysis and visualization of customer data using Excel, SQL, and Power BI, to subscription trends of customers. This project, part of my GitHub portfolio, also showcases my proficiency in data storytelling and highlights my ability to transform raw data into actionable insights with advanced tools confidently.
+This is an analysis and visualization of customer data using Excel, SQL, and Power BI on customer subscription trends. This project, part of my GitHub portfolio, also showcases my proficiency in data storytelling and highlights my ability to transform raw data into actionable insights with advanced tools confidently.
 
 ### Data Source
 Our facilitator provided this dataset.
 
 
 ### Dataset Description
-This dataset provides comprehensive information on customer subscriptions, including details on individual subscription types, durations, and revenue generation. The primary aim is to analyze customer behaviours, subscription trends, and revenue patterns across different regions, helping to guide marketing and retention strategies. This data contains 33,787 rows and 8 columns, while an additional column was added in the cleaning process, making it a total of 9 columns.
+This dataset provides comprehensive information on customer subscriptions, including details on individual subscription types, durations, and revenue generation. The primary aim is to analyze customer behaviours, subscription trends, and revenue patterns across different regions, helping to guide marketing and retention strategies. This data contains 33,787 rows and 8 columns, while additional columns were added in the cleaning process, making it a total of 11 columns.
 
 ---
 
@@ -46,7 +46,7 @@ This dataset provides comprehensive information on customer subscriptions, inclu
 Microsoft Excel is a spreadsheet tool for data organization (cleaning and preparation), analysis, and visualization. It offers formulas, pivot tables, and charts, enabling users to manage and interpret data.
 
 **Data Cleaning and Preparation**: Processing the raw data to ensure it is ready for analysis. Steps taken:
-> Removing Duplicates: The initial rows of the data were 50001, but after removing duplicates, 33787 rows were left. No missing values were found; 
+> Removing Duplicates: The initial rows of the data were 75000, but after removing duplicates, 33787 rows were left. No missing values were found; 
 > Adding filters
 
 
@@ -59,7 +59,7 @@ The following insights will be drawn:
 * What is the total number of active and cancelled subscriptions?
 * What is the total duration of subscription in each region?
 * What is the cancellation rate by customers?
-* How many customers are with subscriptions longer than 12 months?
+* How many customers had subscriptions longer than 12 months?
 * How many customers cancelled their subscriptions within 6 months?
 * What is the total number of customers by subscription?
 * Which region is best for business?
@@ -72,6 +72,7 @@ The following insights will be drawn:
   **Pivot Table** a data summarization tool found in MS Excel was used for visualization.
   
 **Insights Derived**:
+
 1. **Which region has the largest revenue**:	
 
 ![Total Revenue by Region](https://github.com/user-attachments/assets/cc057deb-cd66-4a05-87a3-1334e0aaf65d)
@@ -125,12 +126,12 @@ This analysis shows that all subscription durations have equal span.
 **Key Findings**
 In this analysis, lots of insights were generated. It answers the questions:
 
-  * What is the total No of products sold in 2023? **5,952**
-  * How many product types were sold in each month? **1**
-  * How many products were sold in Jan? **496**
-  * What is the total No of products sold in 2024? **3,969**
+  * What is the total revenue for active subscriptions? **37,208,727**
+  * How many subscription types were subscribed for in each month? **1**
+  * How many subscription types were focused on in each region? **1**
+  * What is the total revenue for cancelled subscriptions? **30,331,448**
     
-In Summary, the business focuses on a particular type of product and a specific region each month. There was only a change in the product type in August when the business initially sold shoes in 2023 but later changed to selling Hats in 2024.  
+In Summary, a particular type of subscription was subscribed for each month and a particular type of subscription in each region.   
   
 
 ## SQL (STANDARD QUERY LANGUAGE)
