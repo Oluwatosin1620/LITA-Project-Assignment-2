@@ -229,7 +229,7 @@ A data Visualization and business intelligence tool for converting data from dif
 1. Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends.
 2. Include slicers for interactive analysis.
 
-    The Excel file was loaded and transformed before visualization was performed, A conditional column was created to attain the Region Sort and Cancelled Range, while a calculated column was created to attain the Duration. The data quality, profile and summarization were checked and ready for visualization.
+    The Excel file was loaded and transformed before visualization was performed, A conditional column was created to attain the Region Sort and Cancelled Range, while a calculated column was created to attain the Duration. The column quality, profile, and distribution were checked and are ready for visualization.
    
 
 ![CustomerData Quality](https://github.com/user-attachments/assets/18e981f6-2a6d-4bd1-8d29-ae32d6589af2)
