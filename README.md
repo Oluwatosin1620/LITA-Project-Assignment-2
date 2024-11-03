@@ -139,7 +139,8 @@ In Summary, a particular type of subscription was subscribed for each month and 
 It is used for querying, storing and managing data in a database. The following queries: were derived in the analysis:
 
 **Insights Derived**:
-1. Retrieve the total number of customers from each region:
+
+1. **Retrieve the total number of customers from each region**:
 
 ~~~ SQL
 SELECT region, count(customerID) as TotalCustomers
@@ -148,7 +149,7 @@ Group by region
 order by TotalCustomers
 ~~~
 
-2. Find the most popular subscription type by the number of customers:
+2. **Find the most popular subscription type by the number of customers**:
 
 ~~~ SQL
 SELECT SubscriptionType, count(customerid) as MostPopular
@@ -157,7 +158,7 @@ GROUP BY SubscriptionType
 ORDER BY MostPopular
 ~~~
 
-3. Find customers who cancelled their subscription within 6 months:
+3. **Find customers who cancelled their subscription within 6 months**:
    
 ~~~ SQL
 select *,
@@ -170,7 +171,7 @@ order by
     subscription_month;
 ~~~
 
-4. Calculate the average subscription duration for all customers:
+4. **Calculate the average subscription duration for all customers**:
 
 ~~~ SQL
 SELECT AVG(datediff(month, subscriptionstart, subscriptionend)) 
@@ -178,7 +179,7 @@ SELECT AVG(datediff(month, subscriptionstart, subscriptionend))
 from [dbo].[LITA Capstone Dataset11]
 ~~~
 
-5. Find customers with subscriptions longer than 12 months:
+5. **Find customers with subscriptions longer than 12 months**:
 
 ~~~ SQL
 select *,
@@ -191,7 +192,7 @@ order by
     subscription_month;
 ~~~
 
-6. Calculate total revenue by subscription type:
+6. **Calculate total revenue by subscription type**:
 
 ~~~ SQL
 SELECT SubscriptionType, sum(CAST(revenue AS INT)) as TotalRevenue
@@ -200,7 +201,7 @@ group by subscriptiontype
 order by TotalRevenue
 ~~~
 
-7. Find the top 3 regions by subscription cancellations:
+7. **Find the top 3 regions by subscription cancellations**:
 
 ~~~ SQL
 select top 3 region, count(*) as Total_cancel
@@ -210,7 +211,7 @@ group by region
 order by Total_Cancel desc
 ~~~
 
-8. Find the total number of active and cancelled subscriptions:
+8. **Find the total number of active and cancelled subscriptions**:
 
 ~~~ SQL
 select case when canceled = 0 then 'Active_Sub'
@@ -223,8 +224,15 @@ order by Total_Cancel desc
 
 
 ## POWER BI
-A data Visualization and business intelligence tool for converting data from different sources to interactive dashboards. The Excel file was loaded and transformed before visualization was performed, A calculated column was created to attain the Duration.
+A data Visualization and business intelligence tool for converting data from different sources to interactive dashboards. The following are required to be presented on the visualization tool:
 
+1. Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends.
+2. Include slicers for interactive analysis.
+
+    The Excel file was loaded and transformed before visualization was performed, A conditional column was created to attain the Region Sort and Cancelled Range, while a calculated column was created to attain the Duration. The data quality, profile and summarization were checked and ready for visualization.
+   
+
+![CustomerData Quality](https://github.com/user-attachments/assets/18e981f6-2a6d-4bd1-8d29-ae32d6589af2)
 
 
 
