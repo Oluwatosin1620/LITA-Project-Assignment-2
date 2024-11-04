@@ -234,11 +234,19 @@ A data Visualization and business intelligence tool for converting data from dif
 
 ![CustomerData Quality](https://github.com/user-attachments/assets/18e981f6-2a6d-4bd1-8d29-ae32d6589af2)
 
-
-
-
 ![CustomerData Dashboard](https://github.com/user-attachments/assets/72854ad1-0471-4231-b624-4eec797251bc)
 
 ![CustomerData Dashboard 2](https://github.com/user-attachments/assets/12719791-70fd-4263-8a8c-f0890f690257)
 
 
+**INSIGHTS DRIVEN**
+
+The customer dataset of this business provides a detailed look into the profiles and engagement of 33,787 unique customers, each contributing valuable insights into revenue streams, subscription preferences, and regional performance. Initially, this dataset contained 75,000 rows across 8 columns, but after removing duplicates, it was reduced to 33,787 unique entries, with additional columns added to capture essential details such as "Cancellation Range," "Region Sort," and "Subscription Duration." These enhancements bring the total column count to 11.
+
+The data shows that from previous years up to the present, the business has generated an impressive total revenue of 67,540,175. Among the four regions, the East stands out as the top performer, contributing a substantial 16,958,763 to the overall revenue. The South follows closely, while the North records the lowest revenue at 16,817,972. Despite these differences, each region yields a strong revenue stream, indicating that all areas are profitable and vital to the business’s overall success.
+
+This dataset also reveals customer behaviour regarding subscription types and durations. Each customer subscribed for one year, with the East and North favouring the Basic subscription, the West opting for the Standard type, and the South preferring the Premium subscription. Basic subscriptions were the most popular overall, totalling 6,181,221 in revenue—a significant portion of the business’s income.
+
+Customer retention and cancellations provide further insights. Out of the total customers, 18,612 maintained their subscriptions, while 15,175 chose to cancel. Interestingly, the East region saw no subscription cancellations, highlighting its high retention rate, while the North, South, and West experienced notable cancellations, with figures at 10,093,242; 10,126,800; and 10,111,406, respectively. The East region also led in active subscriptions, with 8,488 customers subscribed to the Basic plan. The South came in second, with 8,420 subscribers on the Premium plan, while the North trailed slightly with 8,433 active subscribers.
+
+These findings suggest growth opportunities: with high profitability across all regions, the business could consider expanding subscription options to enhance customer satisfaction and diversify its revenue base further. The popularity of the Basic subscription and the minimal cancellations in the East region underscore a valuable trend that could be mirrored in other regions to boost retention and engagement.
